@@ -13,3 +13,4 @@ class DropZombiesTable < ActiveRecord::Migration
     end
   end
 end
+end
